@@ -1,5 +1,6 @@
 # studies
 
+- 06/08 - Assistido módulo de **[Fundamentos HTML]()** - Primeiros passos, Atributos, Elementos de conteúdo
 - 05/08 - Assistido módulo de **[Git e Github]()**
 - 04/08 - Assistido módulo de **[Git e Github]()**
 - 03/08 - Assistido módulo de **[Configurando o ambiente]()**

@@ -1,5 +1,6 @@
 # studies
 
+- 09/08 - Assistido módulo de **[Fundamentos CSS]()** - Fontes e textos, Cores e fundos
 - 08/08 - Assistido módulo de **[Fundamentos CSS]()** - Conhecendo o CSS, Box model 
 - 07/08 - Assistido módulo de **[Fundamentos HTML]()** - Elementos estruturais, Caminhos absolutos e relativos
 - 06/08 - Assistido módulo de **[Fundamentos HTML]()** - Primeiros passos, Atributos, Elementos de conteúdo
